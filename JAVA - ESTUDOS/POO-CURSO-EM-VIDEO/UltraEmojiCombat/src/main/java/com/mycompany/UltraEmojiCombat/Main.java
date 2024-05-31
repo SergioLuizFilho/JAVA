@@ -17,5 +17,10 @@ public class Main {
         L[4] = new Lutador("Ufocobol", "Brasil", 37, 1.70, 119.3, 5, 4, 3);
         L[5] = new Lutador("Nerdaard", "EUA", 30, 1.81, 105.7, 12, 2, 4);
         
+        Luta octogono = new Luta();
+        
+        octogono.marcarLuta(L[0], L[1]);
+        octogono.lutar();
+
     }
 }

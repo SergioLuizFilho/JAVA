@@ -9,6 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
-        <exec.mainClass>com.mycompany.java_treino.Java_Treino</exec.mainClass>
+        <exec.mainClass>com.mycompany.UltraEmojiCombat.Main</exec.mainClass>
     </properties>
 </project>
