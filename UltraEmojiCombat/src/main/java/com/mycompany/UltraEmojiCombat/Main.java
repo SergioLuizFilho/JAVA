@@ -1,8 +1,8 @@
-package com.mycompany.java_treino;
+package com.mycompany.UltraEmojiCombat;
 
 import java.util.Scanner;
 
-public class Java_Treino {
+public class Main {
 
     public static void main(String[] args) {
         

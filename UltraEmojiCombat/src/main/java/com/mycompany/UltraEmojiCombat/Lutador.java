@@ -1,4 +1,4 @@
-package com.mycompany.java_treino;
+package com.mycompany.UltraEmojiCombat;
 
 public class Lutador {
     
